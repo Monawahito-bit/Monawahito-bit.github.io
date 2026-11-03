@@ -71,3 +71,83 @@ h2 em,
   color: var(--ink);
 }
 
+
+
+/* MONA WAHITO — RICH BURNT ORANGE PALETTE */
+
+body {
+  background: #F7F1E8;
+  color: #2B211C;
+}
+
+.site-header {
+  background: #F7F1E8;
+  border-bottom-color: #E3D5C8;
+}
+
+.nav a:hover,
+.text-link:hover,
+.project-link:hover {
+  color: #A64F2B;
+}
+
+.eyebrow,
+.hero h1 em,
+.section-heading h2 em,
+.about-grid h2 em,
+.approach h2 em {
+  color: #A64F2B;
+}
+
+.button-dark {
+  background: #843C23;
+}
+
+.button-dark:hover {
+  background: #A64F2B;
+}
+
+.proof-strip,
+.about-band {
+  background: #EBD2BE;
+  border-color: #D8BBA5;
+}
+
+.proof-inner strong {
+  color: #843C23;
+}
+
+.project-card {
+  background: #FCF8F2;
+  border-color: #E3D5C8;
+}
+
+.art-activation {
+  background: #EBD2BE;
+  color: #55372C;
+}
+
+.art-operating {
+  background: #DCC0AA;
+  color: #38271F;
+}
+
+.art-operating .art-bottom {
+  border-color: #B88E75;
+}
+
+.contact-section {
+  background: #38271F;
+}
+
+.contact-inner .eyebrow,
+.contact-inner h2 em {
+  color: #D99A75;
+}
+
+.button-light {
+  background: #F7F1E8;
+  color: #38271F;
+}
+
+
